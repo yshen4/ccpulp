@@ -21,6 +21,6 @@ This repository is to show how to use dynamic programming (DP) to solve real wor
 - Partition problem
 
 # References
-1. Dynamic Programming wikipedia [https://en.m.wikipedia.org/wiki/Dynamic_programming]
+1. [Dynamic Programming wikipedia](https://en.m.wikipedia.org/wiki/Dynamic_programming)
 
  
