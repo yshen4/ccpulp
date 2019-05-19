@@ -28,5 +28,9 @@ If sub-problems can be nested recursively inside larger problems, so that dynami
 
 # References
 1. [Dynamic Programming wikipedia](https://en.m.wikipedia.org/wiki/Dynamic_programming)
-
+2. MIT Dynamic Programming tutorial on Youtube: 
+   - [part 1](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+   - [part 2](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+   - [part 3](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+   - [part 4](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
  
