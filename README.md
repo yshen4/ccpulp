@@ -13,6 +13,7 @@ If sub-problems can be nested recursively inside larger problems, so that dynami
 
 # Problems
 - Fibonacci
+  - cut rod: a similar problem
 - Shortest Paths
 - Edit distance
 - Text justification
