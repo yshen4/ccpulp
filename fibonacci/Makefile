@@ -9,13 +9,16 @@ else
     LIBPATH=-pthread -Wl,-R. 
 endif
 
-all: fib
+all: fib cutrod
 
 fib: fib.cpp
 	$(CC) $(CCFlag) -o fib fib.cpp
 
+cutrod: cutrod.cpp
+	$(CC) $(CCFlag) -o cutrod cutrod.cpp
+
 clean:
-	rm -f  fib *.o *.so *.gch
+	rm -f  fib cutrod *.o *.so *.gch
 	rm -rf *.dSYM
 
 test:
